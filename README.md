@@ -41,7 +41,7 @@ Idra supports natively ODMS based on CKAN, DKAN, Socrata, Orion Context Broker (
 
 Idra is an open source software developed by Engineering Ingegneria Informatica SpA inside the EU founded project "FESTIVAL". This project is part of FIWARE. For more information check the FIWARE Catalogue entry for Data Publication. 
 
-[Link to repository](https://github.com/Urban-Flow-Organization/Idra)​
+[Repository](https://github.com/Urban-Flow-Organization/Idra)​
 
 ### URBAN FLOW Local Digital Twin platform
 The software platform for Local Digital Twins, including advanced visualisations and dashboards, integrating real time data via the Data and KPI tools and Data Spaces interoperability components, and interfacing with WP4 and WP5 tools and the online collaboration platform.
