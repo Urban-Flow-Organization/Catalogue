@@ -60,8 +60,8 @@ Orion-LD is a Context Broker and CEF building block for context data management,
 
 [Repository](https://github.com/Urban-Flow-Organization/context.Orion-LD)​
 
-### Interoperability tools for Mobility and SSCC Data Spaces
-Technological building blocks implementing interoperability with Mobility Data Spaces and other European data spaces, reusing data space components from DSSC, deploy EMDS, DS4SSCC, DS4SSCC DEP, and boost EDIC M and L, based on MIMs Plus and standards such as mobility DCAT AP.
+### New component here
+New component description here
 
-[Link to repository](https://github.com/URBREATH/Idra)
+[Repository](https://github.com/URBREATH/Idra)
 
