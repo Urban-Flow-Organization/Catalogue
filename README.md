@@ -13,10 +13,10 @@ Technological building blocks implementing interoperability with Mobility Data S
 
 [Link to repository](https://github.com/URBREATH/Idra)​
 
-### Online collaboration platform for URBAN FLOW co creation
+### Online collaboration platform for URBAN FLOW (Decidim)
 A web based collaboration platform, built on open source solutions such as Decidim, providing forums, interactive maps, geolocation, and integration with the Local Digital Twin (KPI management, visualisations) to support co creation and feedback collection.
 
-[Link to repository](https://github.com/URBREATH/Idra)
+[Link to repository](https://github.com/Urban-Flow-Organization/decidim)
 
 ### Idra - Open Data Federation Platform
 Idra is a web application able to federate existing Open Data Management Systems (ODMS) based on different technologies providing a unique access point to search and discover open datasets coming from heterogeneous sources. Idra uniforms representation of collected open datasets, thanks to the adoption of international standards (DCAT-AP) and provides a set of RESTful APIs to be used by third party applications.
