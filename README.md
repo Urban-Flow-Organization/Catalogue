@@ -18,6 +18,16 @@ A web based collaboration platform, built on open source solutions such as Decid
 
 [Link to repository](https://github.com/Urban-Flow-Organization/decidim)
 
+#### Decidim Modules: Extensions created for the Decidim platform.
+
+[decidim-module-apiauth] (https://github.com/Urban-Flow-Organization/decidim-module-apiauth)
+decidim-module-idra
+decidim-module-iframe
+decidim-module-keycloak
+decidim-module-nbs_stories
+decidim-module-urbreath-ui
+decidim-module-whiteboard
+
 ### Idra - Open Data Federation Platform
 Idra is a web application able to federate existing Open Data Management Systems (ODMS) based on different technologies providing a unique access point to search and discover open datasets coming from heterogeneous sources. Idra uniforms representation of collected open datasets, thanks to the adoption of international standards (DCAT-AP) and provides a set of RESTful APIs to be used by third party applications.
 
