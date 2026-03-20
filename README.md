@@ -43,10 +43,13 @@ Idra is an open source software developed by Engineering Ingegneria Informatica 
 
 [Repository](https://github.com/Urban-Flow-Organization/Idra)​
 
-### URBAN FLOW Local Digital Twin platform
-The software platform for Local Digital Twins, including advanced visualisations and dashboards, integrating real time data via the Data and KPI tools and Data Spaces interoperability components, and interfacing with WP4 and WP5 tools and the online collaboration platform.
+### KPI Manager
+The KPI Manager (part of the Digital Enabler platform) is designed to track, analyze, and manage key performance indicators effectively.
+Its primary purpose is to provide insights into the performance of various aspects of an organization, a project, a solution, enabling informed decision-making and strategic planning.
+It acts as a central hub for aggregating data from various sources. By consolidating data from disparate systems and databases, the KPI Manager provides a unified view of performance metrics.
+Through intuitive visualization tools such as dashboards, charts, and graphs, KPI Manager presents KPIs in a clear and accessible manner. This allows stakeholders to quickly see trends, patterns, and outliers within the data, facilitating informed decision-making.
 
-[Link to repository](https://github.com/URBREATH/Idra)​
+[Repository](https://github.com/Urban-Flow-Organization/KPI-Manager)​
 
 ### Health Impact Assessment and Climate Neutrality index toolbox
 A toolbox implementing Health Impact Assessment models and the climate neutrality composite index, integrating environmental and public health indicators and connecting to the Impact Assessment Framework and LDT dashboards.
