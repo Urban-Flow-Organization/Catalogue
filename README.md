@@ -5,7 +5,7 @@ These tools will be progressively released as separate repositories under this o
 ​
 
 ### Online collaboration platform for URBAN FLOW (Decidim)
-A web based collaboration platform, built on open source solutions such as Decidim, providing forums, interactive maps, geolocation, and integration with the Local Digital Twin (KPI management, visualisations) to support co creation and feedback collection.
+Decidim is a participatory democracy framework, written in Ruby on Rails, originally developed for the Barcelona City government online and offline participation website. Installing these libraries will provide you a generator and gems to help you develop web applications like the ones found on example applications or like our demo application.
 
 [Repository](https://github.com/Urban-Flow-Organization/decidim)
 
