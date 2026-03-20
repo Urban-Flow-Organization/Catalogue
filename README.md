@@ -24,6 +24,8 @@ A web based collaboration platform, built on open source solutions such as Decid
 
 [decidim-module-idra](https://github.com/Urban-Flow-Organization/decidim-module-idra)
 
+[decidim-module-iframe](https://github.com/Urban-Flow-Organization/decidim-module-iframe)
+
 decidim-module-apiauth
 decidim-module-idra
 decidim-module-iframe
