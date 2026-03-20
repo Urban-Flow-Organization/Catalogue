@@ -21,6 +21,7 @@ A web based collaboration platform, built on open source solutions such as Decid
 #### Decidim Modules: Extensions created for the Decidim platform.
 
 [decidim-module-apiauth](https://github.com/Urban-Flow-Organization/decidim-module-apiauth)
+
 [decidim-module-idra](https://github.com/Urban-Flow-Organization/decidim-module-idra)
 
 decidim-module-apiauth
