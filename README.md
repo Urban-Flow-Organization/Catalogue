@@ -51,8 +51,16 @@ Through intuitive visualization tools such as dashboards, charts, and graphs, KP
 
 [Repository](https://github.com/Urban-Flow-Organization/KPI-Manager)​
 
-### Health Impact Assessment and Climate Neutrality index toolbox
-A toolbox implementing Health Impact Assessment models and the climate neutrality composite index, integrating environmental and public health indicators and connecting to the Impact Assessment Framework and LDT dashboards.
+### GeoCacher
+GeoCacher is a backend service designed to support a graphical dashboard for visualizing geospatial data. Its primary purpose is to interface with a FIWARE ORION Context Broker to extract and temporarily store (cache) data.
 
-[Link to repository](https://github.com/URBREATH/Idra)
+Key features include:
+
+Data Extraction: Retrieves filters and geospatial data from the ORION Context Broker.
+Search Management: Supports CRUD (Create, Read, Update, Delete) operations to save and manage user searches on a supporting MongoDB database.
+GeoJSON Upload: Allows users to upload and display custom GeoJSON files on the dashboard.
+
+[Frontend](https://github.com/Urban-Flow-Organization/GeoCacher-frontend)
+
+[Backend](https://github.com/Urban-Flow-Organization/GeoCacher-backend)
 
