@@ -145,5 +145,9 @@ BenMAP-CE quantifies health impacts of air pollutants on mortality and respirato
 
 [Repository](https://github.com/Urban-Flow-Organization)
 
+### Data Spaces Connector
+The Data Spaces Connector enables cities to share their datasets in a controlled way. Each data producer maintains full ownership 
+and control over their data. The connector enables cities to seamlessly join decentralised Data Spaces within the EU data sphere, 
+thus taking advantage of vaste data to improve the urban regeneration process, urban planning, and the decision making process.
 
-
+[Repository](https://github.com/Urban-Flow-Organization)
