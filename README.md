@@ -60,15 +60,13 @@ Orion-LD is a Context Broker and CEF building block for context data management,
 
 [Repository](https://github.com/Urban-Flow-Organization/context.Orion-LD)​
 
-### Coney Toolkit
-A complete toolkit for design, administration and analysis of conversational surveys. Coney represents a solution to better engage with the end-users and improve response rate while gathering relevant and actionable data. The tool will be integrated into the user engagement solutions developed by the project support the definition and analysis of multilingual surveys
-
-[Repository](https://github.com/Urban-Flow-Organization)
-
 ### Chimera
 Chimera is a customizable software framework for data enrichment and harmonization. Chimera offers components to define schema and data transformation pipelines based on Semantic Web solutions. The tool will be enhanced to support harmonisation and fusion of data needed by URBAN-FLOW.
 
-[Repository](https://github.com/Urban-Flow-Organization)
+TBC [Repository](https://github.com/Urban-Flow-Organization)
+[Original Repository for Chimera](https://github.com/cefriel/chimera)
+[Mapping Template Component](https://github.com/cefriel/mapping-template)
+[convergo: GTFS/GTFS-RT to NeTEx/SIRI Converter](https://github.com/cefriel/convergo)
 
 ### U-NEED
 U-NEED is an advanced data analytics tool to optimizing public transportation systems. The tool will consider the specific condition of disruptive climate events to adapt mobility in the city.
