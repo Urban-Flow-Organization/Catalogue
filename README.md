@@ -63,7 +63,7 @@ Orion-LD is a Context Broker and CEF building block for context data management,
 ### Chimera
 Chimera is a customizable software framework for data enrichment and harmonization. Chimera offers components to define schema and data transformation pipelines based on Semantic Web solutions. The tool will be enhanced to support harmonisation and fusion of data needed by URBAN-FLOW.
 
-TBC [Repository](https://github.com/Urban-Flow-Organization)
+[Example usage of Chimera][Repository](https://github.com/Urban-Flow-Organization/chimera-urbanflow-route)
 
 [Original Repository for Chimera](https://github.com/cefriel/chimera)
 
