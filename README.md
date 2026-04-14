@@ -81,8 +81,8 @@ ELECTRA allows the management and planning of the charging sessions of an electr
 
 [Repository](https://github.com/Urban-Flow-Organization)
 
-### CITY-LOG
-Tool to help the local authorities to define the most appropriate location of new parking spaces for loading / unloading purposes. The tool will support the dynamic use of public space as response to disruptive climate events. 
+### PARCAR
+Tool to help the local authorities to dynamically manage curb-side parking at specific sites for various purposes, such as logistics (loading/unloading), school drop-off/pick-up, disabled access, and general use. The tool will support the dynamic use of public space as response to disruptive climate events. 
 
 [Repository](https://github.com/Urban-Flow-Organization)
 
