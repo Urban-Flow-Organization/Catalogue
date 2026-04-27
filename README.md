@@ -129,12 +129,12 @@ Remote supervising and controlling automated vehicles including facilities, HW, 
 ### DataHub 
 Aims at managing protocols and devices heterogeneity and provides access to data/actions of IoT devices. Creation of specific data bridges and data models to fit the project pilot needs for interoperability.
 
-[Repository](https://github.com/Urban-Flow-Organization)
+[Repository](https://github.com/Urban-Flow-Organization/kentyou-datahub)
 
 ### Kentyou Eye 
 Urban hypervisor solution to visualize urban data, provide forecasts and decision support for municipal actors. Creation of dedicated data analytics and decision support solutions for the project pilots.
 
-[Repository](https://github.com/Urban-Flow-Organization)
+[Repository](https://github.com/Urban-Flow-Organization/kentyou-eye)
 
 ### EPISODE-CityChem 
 Open-source urban air quality model that simulates city-level pollutant dispersion and chemical interactions, providing high-resolution exposure estimates for pollutants like NO2, O3, and PM2.5.
