@@ -74,17 +74,17 @@ Chimera is a customizable software framework for data enrichment and harmonizati
 ### U-NEED
 U-NEED is an advanced data analytics tool to optimizing public transportation systems. The tool will consider the specific condition of disruptive climate events to adapt mobility in the city.
 
-[Repository](https://github.com/Urban-Flow-Organization)
+[Repository](https://github.com/jsuarez-etraid/U-Need)
 
 ### ELECTRA
 ELECTRA allows the management and planning of the charging sessions of an electric bus fleet. The tool will consider the availability of V2G and the use of charging point for different types of EV.
 
-[Repository](https://github.com/Urban-Flow-Organization)
+[Repository](https://github.com/flopez-etraid/Electra)
 
 ### PARCAR
 Tool to help the local authorities to dynamically manage curb-side parking at specific sites for various purposes, such as logistics (loading/unloading), school drop-off/pick-up, disabled access, and general use. The tool will support the dynamic use of public space as response to disruptive climate events. 
 
-[Repository](https://github.com/Urban-Flow-Organization)
+[Repository](https://github.com/flopez-etraid/Parcar)
 
 ### INES CLOUD
 INES Cloud is a modular platform for digitizing urban mobility and parking services. Certified in the national SaaS marketplace, it integrates multiple application modules, field devices, and external systems, offering a solution to regulate vehicle access and manage permits. The platform will be evolved with new API for data acquisition from new data sources, a data visualization tool and a recommendation and alerting tool to support policy makers.
