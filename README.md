@@ -74,7 +74,13 @@ Chimera is a customizable software framework for data enrichment and harmonizati
 ### U-NEED
 U-NEED is an advanced data analytics tool to optimizing public transportation systems. The tool will consider the specific condition of disruptive climate events to adapt mobility in the city.
 
-[Repository](https://github.com/Urban-Flow-Organization)
+[Repository](https://github.com/jsuarez-etraid/U-Need)
+
+[User Guide](https://github.com/jsuarez-etraid/U-Need/blob/main/UserGuide.md)
+
+[Main Features](https://github.com/jsuarez-etraid/U-Need/blob/main/Functionalities.md)
+
+
 
 ### ELECTRA
 ELECTRA allows the management and planning of the charging sessions of an electric bus fleet. The tool will consider the availability of V2G and the use of charging point for different types of EV.
