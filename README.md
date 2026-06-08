@@ -152,5 +152,7 @@ BenMAP-CE quantifies health impacts of air pollutants on mortality and respirato
 
 [Repository](https://github.com/Urban-Flow-Organization)
 
+### UrbanHeatAtlas
+Heat stress assessment to human population in urban areas. Model developed by Tecnalia to characterise heat stress to human population in urban areas. It combines different data sources and artificial intelligence to assess heat stress and evaluate the effectiveness of adaptation measures and Nature Based Solutions.
 
-
+[Repository](https://github.com/Urban-Flow-Organization)
