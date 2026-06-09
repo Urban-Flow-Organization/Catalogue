@@ -92,16 +92,6 @@ Tool to help the local authorities to dynamically manage curb-side parking at sp
 
 [Repository](https://github.com/Urban-Flow-Organization)
 
-### INES CLOUD
-INES Cloud is a modular platform for digitizing urban mobility and parking services. Certified in the national SaaS marketplace, it integrates multiple application modules, field devices, and external systems, offering a solution to regulate vehicle access and manage permits. The platform will be evolved with new API for data acquisition from new data sources, a data visualization tool and a recommendation and alerting tool to support policy makers.
-
-[Repository](https://github.com/Urban-Flow-Organization)
-
-### MUV CLOUD 
-MUV Cloud is a cloud-native, interoperable platform to develop multimodal mobility services. It supports sustainable transport with a user app for trip planning and ticketing, and an operator interface for data integration, analytics, and service management. MUV Cloud will be evolved with vehicle tracking features to monitor vehicles journey within the LEZ area and to apply dynamic road pricing based on real mileage.
-
-[Repository](https://github.com/Urban-Flow-Organization)
-
 ### THERMAL COMFORT 
 Tool for the identification of optimal location of climate refugees and comfortable itineraries, based the thermal comfort criteria and specific accessibility needs. Industrialization of previous developments, inclusion of cycling, pedestrian mobility, public transport stops, school spaces.
 
@@ -158,12 +148,14 @@ Heat stress assessment to human population in urban areas. Model developed by Te
 [Repository](https://github.com/Urban-Flow-Organization)
 
 ### INES Cloud
+INES Cloud is a modular platform for digitizing urban mobility and parking services. Certified in the national SaaS marketplace, it integrates multiple application modules, field devices, and external systems, offering a solution to regulate vehicle access and manage permits. The platform will be evolved with new API for data acquisition from new data sources, a data visualization tool and a recommendation and alerting tool to support policy makers.
 The tool is an integrated technological framework designed for the automated, real-time allocation of urban space. The system utilizes an IoT infrastructure such as parking sensors installed on parking spaces to detect vehicle occupancy and facilitate bidirectional data exchange with the central architecture. These edge devices inform users of specific usage permissions - such as logistics, school zones, or disabled access - and monitor session durations. Management is centralized within the INES Cloud (SaaS instance), which provides a comprehensive interface for municipal authorities. Through the Parking Supervisor module, the system enables real-time occupancy monitoring and automated alerts for improper usage. The platform integrates the geolocation of permits and subscriptions with financial dashboards for tariff and revenue management. For regulated transit, the system supports On-Board Units (OBU) for tourist buses, facilitating automated pay-as-you-go billing and enforcement within UVAR (Urban Vehicle Access Regulations) schemes. By merging field telemetry with digital administrative tools 
 
 [Repository](https://github.com/Urban-Flow-Organization)
 
 ### MUV App
- It is an integrated digital ecosystem designed for the centralized management of urban mobility services and electronic payment processing. Engineered as a modular SaaS solution, it facilitates the convergence of parking payments, public transport ticketing, subscription management for soft mobility (e-bike sharing and e-scooter) and Taxi and NCC (electric private car service) hailing into a unified digital interface. 
+MUV App is a cloud-native, interoperable platform to develop multimodal mobility services. It supports sustainable transport with a user app for trip planning and ticketing, and an operator interface for data integration, analytics, and service management. MUV Cloud will be evolved with vehicle tracking features to monitor vehicles journey within the LEZ area and to apply dynamic road pricing based on real mileage.
+It is an integrated digital ecosystem designed for the centralized management of urban mobility services and electronic payment processing. Engineered as a modular SaaS solution, it facilitates the convergence of parking payments, public transport ticketing, subscription management for soft mobility (e-bike sharing and e-scooter) and Taxi and NCC (electric private car service) hailing into a unified digital interface. 
 MUV APP supports the issuance and validation of virtual permits and digital vouchers, reducing the reliance on physical infrastructure and paper-based processes. Its core architecture is built for high interoperability, enabling seamless integration within Mobility as a Service (MaaS) frameworks and third-party mobility providers. For municipal administrations, the system provides advanced backend tools for financial reconciliation, real-time revenue analytics, services monitoring, and the flexible configuration of tariff structures. By digitizing the end-to-end user journey - from service discovery to final payment - MUV APP provides a robust, data-driven foundation for streamline urban mobility by integrating public transport, ride-sharing, and bike rentals into a single platform. It helps residents and visitors plan efficient, eco-friendly trips across the city. By reducing reliance on private cars, it also eases traffic congestion and lowers emissions. 
 
 [Repository](https://github.com/Urban-Flow-Organization)
