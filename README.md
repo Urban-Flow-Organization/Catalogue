@@ -85,12 +85,12 @@ U-NEED is an advanced data analytics tool to optimizing public transportation sy
 ### ELECTRA
 ELECTRA allows the management and planning of the charging sessions of an electric bus fleet. The tool will consider the availability of V2G and the use of charging point for different types of EV.
 
-[Repository](https://github.com/Urban-Flow-Organization)
+[Repository](https://github.com/Urban-Flow-Organization/Electra)
 
 ### PARCAR
 Tool to help the local authorities to dynamically manage curb-side parking at specific sites for various purposes, such as logistics (loading/unloading), school drop-off/pick-up, disabled access, and general use. The tool will support the dynamic use of public space as response to disruptive climate events. 
 
-[Repository](https://github.com/Urban-Flow-Organization)
+[Repository](https://github.com/Urban-Flow-Organization/Parcar)
 
 ### THERMAL COMFORT 
 Tool for the identification of optimal location of climate refugees and comfortable itineraries, based the thermal comfort criteria and specific accessibility needs. Industrialization of previous developments, inclusion of cycling, pedestrian mobility, public transport stops, school spaces.
